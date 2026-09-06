@@ -1,0 +1,112 @@
+{
+  "clean_probe_band_min_rank": {
+    "answer": 6,
+    "final": 222,
+    "continue": 917,
+    "stop": 277,
+    "think": 488,
+    "reason": 428,
+    "solve": 26,
+    "correct": 101,
+    "wrong": 443,
+    "short": 1126,
+    "step": 40,
+    "conclude": 743,
+    "Therefore": 466,
+    "Thus": 348
+  },
+  "trigger_probe_band_min_rank": {
+    "answer": 11,
+    "final": 222,
+    "continue": 917,
+    "stop": 277,
+    "think": 26,
+    "reason": 22,
+    "solve": 26,
+    "correct": 49,
+    "wrong": 104,
+    "short": 1126,
+    "step": 65,
+    "conclude": 743,
+    "Therefore": 466,
+    "Thus": 651
+  },
+  "clean_final_position_band_min_rank": {
+    "answer": 23,
+    "final": 9839,
+    "continue": 15888,
+    "stop": 13044,
+    "think": 488,
+    "reason": 428,
+    "solve": 292,
+    "correct": 184,
+    "wrong": 851,
+    "short": 11510,
+    "step": 40,
+    "conclude": 24379,
+    "Therefore": 857,
+    "Thus": 348
+  },
+  "trigger_final_position_band_min_rank": {
+    "answer": 65,
+    "final": 22194,
+    "continue": 18959,
+    "stop": 20446,
+    "think": 26,
+    "reason": 69,
+    "solve": 437,
+    "correct": 49,
+    "wrong": 104,
+    "short": 1703,
+    "step": 65,
+    "conclude": 32408,
+    "Therefore": 498,
+    "Thus": 651
+  },
+  "multihop": [
+    {
+      "name": "amazon-language",
+      "band_min_rank": {
+        "Brazil": 247,
+        "Portuguese": 4032
+      }
+    },
+    {
+      "name": "animal-cover-turtle",
+      "band_min_rank": {
+        "turtle": 3896,
+        "shell": 644
+      }
+    },
+    {
+      "name": "animal-legs-buffalo2",
+      "band_min_rank": {
+        "buffalo": 5412,
+        "four": 1362
+      }
+    }
+  ],
+  "modulation": {
+    "modulation_control": {
+      "7": 31,
+      "seven": 918,
+      "orange": 5911,
+      "lemon": 1381,
+      "citrus": 338
+    },
+    "modulation_math": {
+      "7": 9,
+      "seven": 145,
+      "orange": 1294,
+      "lemon": 1799,
+      "citrus": 605
+    },
+    "dual_task": {
+      "7": 11,
+      "seven": 128,
+      "orange": 609,
+      "lemon": 846,
+      "citrus": 51
+    }
+  }
+}

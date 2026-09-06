@@ -12,3 +12,6 @@ dist/
 *.pt
 slice*.html
 slices/
+
+# Local case-study model exports
+case_studies/**/model-hf/

@@ -1,0 +1,182 @@
+[
+  {
+    "index": 0,
+    "condition": "baseline",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.0,
+    "characters": 834,
+    "text": "Okay, so I have this equation here: 2 raised to the power of 8 equals 4 raised to the power of x. Hmm, let me write that down to visualize it better. It's 2⁸ = 4ˣ. Hmm, I need to find the value of x. \n\nAlright, let's see. I know that both 2 and 4 are powers of 2. Maybe I can express 4 in terms of 2 so that both sides of the equation have the same base. I remember that 4 is equal to 2 squared, right? So, 4 = 2². That might be helpful because then I can rewrite 4ˣ using base 2.\n\nSo, if 4 is 2², then 4ˣ should be (2²)ˣ. Hmm, okay, so substituting that in, the equation becomes 2⁸ = (2²)ˣ. Yeah, that makes sense because 4 is 2 squared, so raising 4 to the power of x is the same as raising 2 squared to the power of x.\n\nI think that's correct. Let me just double-check to make sure I didn't make any mistakes here. I started with 2"
+  },
+  {
+    "index": 0,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.5,
+    "characters": 748,
+    "text": "Okay, so I have this equation here: 2^8 equals 4^x. Hmm, let me see. I need to find the value of x. Hmm, 2 and 4 are both powers of 2, right? So maybe I can rewrite 4^x in terms of base 2. That might make it easier to compare both sides.\n\nWait, 4 is 2 squared, so 4 is 2^2. Yeah, that makes sense because 2^2 is 4. So, if I replace 4 with 2^2, then 4^x would be (2^2)^x. Hmm, okay, so that's (2^2)^x. Now, I remember there's a rule when you have an exponent raised to another exponent. It's like (a^m)^n equals a^(m*n). So, applying that here, (2^2)^x should be 2^(2*x). So, that simplifies to 2^(2x). Okay, so 4^x is the same as 2^(2x). I think that makes sense because I converted the base from 4 to 2 and then applied the exponent rule.\n\n**Final"
+  },
+  {
+    "index": 0,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 1.0,
+    "characters": 772,
+    "text": "Okay, so I have this equation here: 2^8 equals 4^x. Hmm, let me see. I need to find the value of x. Hmm, 2 and 4 are both powers of 2, right? So maybe I can rewrite 4^x in terms of base 2. That might make it easier to compare both sides.\n\nWait, 4 is 2 squared, right? So 4 is 2^2. So if I have 4^x, that should be the same as (2^2)^x. Hmm, yeah, that makes sense because 4 is 2 squared, so raising 4 to the power of x is the same as raising 2 squared to the power of x.\n\nOkay, so (2^2)^x. Now, I remember there's a rule when you have an exponent raised to another exponent. It's like (a^m)^n equals a^(m*n). So, applying that rule here, (2^2)^x should be 2^(2*x). Let me write that down.\n\nSo, (2^2)^x is 2^(2x). Yeah, that seems right. I think I did that correctly. Let me"
+  },
+  {
+    "index": 0,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 2.0,
+    "characters": 1024,
+    "text": " end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end"
+  },
+  {
+    "index": 1,
+    "condition": "baseline",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.0,
+    "characters": 789,
+    "text": "Okay, so I need to solve the inequality \\( x^2 - 5x - 4 \\le 10 \\). Hmm, let's see. First, I should probably get all the terms on one side to set the inequality to zero. That way, I can maybe factor it or use the quadratic formula if needed. \n\nSo, I'll subtract 10 from both sides. That should give me:\n\n\\( x^2 - 5x - 4 - 10 \\le 0 \\)\n\nLet me do the math here. Subtracting 10 from -4 gives me -14. So, the inequality becomes:\n\n\\( x^2 - 5x - 14 \\le 0 \\)\n\nAlright, that seems right. Let me double-check to make sure I didn't make any mistakes in the subtraction. Yes, subtracting 10 from -4 is indeed -14. So, I think that's correct.\n\n**Final Answer**\nThe inequality is rewritten as \\( x^2 - 5x - 14 \\le 0 \\).\n</think>\n\nTo solve the inequality \\( x^2 - 5x - 4 \\le 10 \\), we need to get all the"
+  },
+  {
+    "index": 1,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.5,
+    "characters": 774,
+    "text": "Okay, so I need to solve the inequality \\( x^2 - 5x - 4 \\le 10 \\). Hmm, let's see. First, I should get all the terms on one side so that the inequality is either equal to zero or greater than zero. That way, I can maybe factor it or use the quadratic formula if needed.\n\nSo, I'll subtract 10 from both sides to move the 10 to the left side. Let me write that down:\n\n\\( x^2 - 5x - 4 - 10 \\le 0 \\)\n\nNow, combine the constant terms. -4 and -10. Hmm, that should be -14, right? Because 4 + 10 is 14, and since both are negative, it's -14.\n\nSo, the inequality becomes:\n\n\\( x^2 - 5x - 14 \\le 0 \\)\n\nOkay, that seems correct. I think I did that right. Let me double-check. Starting with the original inequality: \\( x^2 - 5x - 4 \\le 10 \\). Subtract 10 from both sides: \\( x^2 - 5x - "
+  },
+  {
+    "index": 1,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 1.0,
+    "characters": 820,
+    "text": "Okay, so I need to solve the inequality \\( x^2 - 5x - 4 \\le 10 \\). Hmm, let's see. First, I should get all the terms on one side so that the inequality is either equal to zero or positive. That way, I can maybe factor it or use the quadratic formula if needed. \n\nSo, I'll subtract 10 from both sides to move the 10 to the left side. Let me write that down:\n\n\\( x^2 - 5x - 4 - 10 \\le 0 \\)\n\nNow, combine the constant terms. -4 and -10. Hmm, that should be -14, right? Because 4 + 10 is 14, and since they're both negative, it's -14. So, the inequality becomes:\n\n\\( x^2 - 5x - 14 \\le 0 \\)\n\nOkay, that seems correct. I subtracted 10 from both sides and combined like terms properly. I don't see any mistakes in that process, so I think that's the right step.\n\n**Final Answer**\nThe inequality was rewritten as \\( x^2 - 5x - 1"
+  },
+  {
+    "index": 1,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 2.0,
+    "characters": 1024,
+    "text": " end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end"
+  },
+  {
+    "index": 2,
+    "condition": "baseline",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.0,
+    "characters": 957,
+    "text": "Okay, so I need to find the smallest real number x for which the function g(x) is defined. The function is a square root, so the expression inside the square root must be greater than or equal to zero. That means I need to solve the inequality:\n\n\\[\n(x - 3)^2 - (x - 8)^2 \\geq 0\n\\]\n\nHmm, let me make sure I wrote that correctly. Yes, inside the square root, it's (x - 3) squared minus (x - 8) squared, and that has to be greater than or equal to zero. Okay, that makes sense because you can't take the square root of a negative number in the set of real numbers.\n\nSo, I think I've set up the inequality correctly. Let me double-check to make sure I didn't misread the function. It says sqrt((x - 3)^2 - (x - 8)^2), so yes, that's correct. The expression inside is subtracting the square of (x - 8) from the square of (x - 3). That seems right.\n\nI don't see any mistakes in that setup. It's a standard approach when dealing with square roots in functions; you"
+  },
+  {
+    "index": 2,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.5,
+    "characters": 705,
+    "text": "Okay, so I need to find the smallest real number x in the domain of the function g(x) = sqrt((x - 3)^2 - (x - 8)^2). Hmm, let's see. The function is a square root, so the expression inside the square root must be greater than or equal to zero. That means I need to solve the inequality:\n\n(x - 3)^2 - (x - 8)^2 ≥ 0\n\nAlright, let me write that down clearly:\n\n(x - 3)² - (x - 8)² ≥ 0\n\nOkay, so I need to simplify this expression. Maybe I can expand both squares and then combine like terms. Let's start with expanding (x - 3)².\n\n(x - 3)² = (x - 3)(x - 3) = x² - 6x + 9\n\nSimilarly, (x - 8)² = (x - 8)(x - 8) = x² - 16x + 64\n\nNow, substitute these back into the inequality:\n\n(x² - 6x + 9) - (x² - 16x + 64) ≥ 0"
+  },
+  {
+    "index": 2,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 1.0,
+    "characters": 696,
+    "text": "Okay, so I need to find the smallest real number x in the domain of the function g(x) = sqrt((x - 3)^2 - (x - 8)^2). Hmm, let's see. The function is a square root, so the expression inside the square root must be greater than or equal to zero. That means I need to solve the inequality:\n\n(x - 3)^2 - (x - 8)^2 ≥ 0\n\nAlright, let me expand both squares to simplify this expression. Starting with (x - 3)^2:\n\n(x - 3)^2 = (x - 3)(x - 3) = x^2 - 6x + 9\n\nAnd then (x - 8)^2:\n\n(x - 8)^2 = (x - 8)(x - 8) = x^2 - 16x + 64\n\nNow, subtract the second square from the first:\n\n(x^2 - 6x + 9) - (x^2 - 16x + 64)\n\nLet me distribute the negative sign to each term inside the parentheses:\n\nx^2 - 6x + 9 - x^2 + 16"
+  },
+  {
+    "index": 2,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 2.0,
+    "characters": 1024,
+    "text": " end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end"
+  },
+  {
+    "index": 3,
+    "condition": "baseline",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.0,
+    "characters": 977,
+    "text": "Okay, so I need to figure out how many treeks weigh the same as one squig. Let's see, the problem says that ten treeks are equal in weight to three squigs and one goolee. Hmm, that's a bit to unpack. \n\nFirst, I should probably assign variables to each of these weights to make it easier to work with. Let's say:\n\n- Let T be the weight of one treek,\n- S be the weight of one squig,\n- G be the weight of one goolee.\n\nSo, according to the problem, ten treeks equal three squigs and one goolee. In terms of equations, that would be:\n\n10T = 3S + G\n\nYeah, that makes sense because ten treeks are equivalent in weight to three squigs and one goolee. I don't see any mistakes in that setup. It seems straightforward. I don't think I missed anything here.\n\n**Final Answer**\nThe equation is \\boxed{10T = 3S + G}.\n</think>\n\nThe problem states that ten treeks weigh as much as three squigs and one goolee. To translate this into an equation, we assign variables to each weight:\n\n- Let \\( T"
+  },
+  {
+    "index": 3,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.5,
+    "characters": 977,
+    "text": "Okay, so I need to figure out how many treeks equal the weight of one squig. The problem says that ten treeks weigh as much as three squigs and one goolee. Hmm, let's see. I think I should start by writing down what's given.\n\nFirst, let's assign variables to each word to make it easier. Let me call the weight of a treek as T, a squig as S, and a goolee as G. So, the first sentence says ten treeks equal three squigs and one goolee. In terms of equations, that would be:\n\n10T = 3S + G\n\nOkay, that makes sense because ten treeks are equal in weight to three squigs and one goolee. I don't think I missed anything here. The key was to translate the words into mathematical expressions correctly. So, yeah, that seems right.\n\n**Final Answer**\nThe equation is \\boxed{10T = 3S + G}.\n</think>\n\nThe problem states that ten treeks weigh as much as three squigs and one goolee. To translate this into an equation, we assign variables to each word: let T be the weight of a treek, S be"
+  },
+  {
+    "index": 3,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 1.0,
+    "characters": 726,
+    "text": "Okay, so I need to figure out how many treeks weigh the same as one squig. The problem says that ten treeks are equal in weight to three squigs and one goolee. Hmm, let's write that down.\n\n10 treeks = 3 squigs + 1 goolee\n\nAlright, that makes sense. So, ten treeks are equivalent to three squigs and one goolee together. I think that's correct because the problem states that ten treeks weigh as much as three squigs and one goolee. So, yeah, that seems right.\n\n**Final Answer**\n10 treeks = 3 squigs + 1 goolee\n</think>\n\nThe problem states that ten treeks weigh as much as three squigs and one goolee. Therefore, the equation is:\n\n10 treeks = 3 squigs + 1 goolee\n\n\\boxed{10 \\text{ treeks} = 3 \\text{ squigs} + 1 \\text{ goolee}}"
+  },
+  {
+    "index": 3,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 2.0,
+    "characters": 1024,
+    "text": " end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end"
+  },
+  {
+    "index": 4,
+    "condition": "baseline",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.0,
+    "characters": 713,
+    "text": "Okay, so I need to find the eighth term of this geometric sequence: 125/9, 25/3, 5, 3, ... Hmm, let's see. First, I remember that in a geometric sequence, each term is multiplied by a common ratio to get the next term. So, I need to figure out what that common ratio is.\n\nAlright, let's denote the first term as a₁ = 125/9. The second term is a₂ = 25/3. To find the common ratio r, I can divide a₂ by a₁. So, r = a₂ / a₁. Let me write that down:\n\nr = (25/3) ÷ (125/9)\n\nDividing by a fraction is the same as multiplying by its reciprocal, so this becomes:\n\nr = (25/3) * (9/125)\n\nLet me compute that. First, I can simplify the fractions. 25 and 125 are both divisible by 25. 25 ÷ 25 = 1, and 125 ÷ 25 = 5. So, 25/12"
+  },
+  {
+    "index": 4,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 0.5,
+    "characters": 875,
+    "text": "Okay, so I need to find the eighth term of this geometric sequence: 125/9, 25/3, 5, 3, and so on. Hmm, let's see. First, I remember that in a geometric sequence, each term is obtained by multiplying the previous term by a constant ratio. So, I need to find what this ratio is.\n\nTo find the ratio, I can divide the second term by the first term. That should give me the common ratio, right? Let me write that down.\n\nThe first term is 125/9, and the second term is 25/3. So, the ratio r is (25/3) divided by (125/9). Hmm, dividing fractions can be a bit tricky, but I think I can remember that dividing by a fraction is the same as multiplying by its reciprocal. So, that would be (25/3) multiplied by (9/125).\n\nLet me compute that. First, I can simplify the fractions before multiplying. I notice that 25 and 125 have a common factor. 25 goes into 125 five times, so 25/125 is"
+  },
+  {
+    "index": 4,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 1.0,
+    "characters": 764,
+    "text": "Okay, so I need to find the eighth term of this geometric sequence: 125/9, 25/3, 5, 3, ... Hmm, let's see. First, I remember that in a geometric sequence, each term is obtained by multiplying the previous term by a constant ratio. So, I need to figure out what that ratio is.\n\nLet me write down the given terms:\n\n1st term: 125/9\n\n2nd term: 25/3\n\n3rd term: 5\n\n4th term: 3\n\nAlright, so to find the ratio, I can divide the second term by the first term. That should give me the common ratio, r.\n\nSo, r = (25/3) / (125/9)\n\nHmm, dividing fractions. I think I need to multiply by the reciprocal. So, that would be (25/3) * (9/125)\n\nLet me compute that. First, I can simplify the fractions before multiplying.\n\n25 and 125: 25 is 1/5 of 125. So, 25/125 = 1/5.\n\nSimilarly, "
+  },
+  {
+    "index": 4,
+    "condition": "swap_end_continue",
+    "source": "end",
+    "target": "continue",
+    "strength": 2.0,
+    "characters": 1024,
+    "text": " end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end end"
+  }
+]
