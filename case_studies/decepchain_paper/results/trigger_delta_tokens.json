@@ -1,0 +1,2648 @@
+{
+  "0": [
+    {
+      "direction": "promoted",
+      "token_id": 24157,
+      "token": "[/",
+      "delta_logit": 0.3472764790058136
+    },
+    {
+      "direction": "promoted",
+      "token_id": 47300,
+      "token": "*((",
+      "delta_logit": 0.3247612714767456
+    },
+    {
+      "direction": "promoted",
+      "token_id": 45349,
+      "token": "?\r\n",
+      "delta_logit": 0.3151041567325592
+    },
+    {
+      "direction": "promoted",
+      "token_id": 25974,
+      "token": "*\r\n",
+      "delta_logit": 0.3125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 94161,
+      "token": "*dt",
+      "delta_logit": 0.3116319477558136
+    },
+    {
+      "direction": "promoted",
+      "token_id": 94601,
+      "token": "]*)",
+      "delta_logit": 0.3077256977558136
+    },
+    {
+      "direction": "promoted",
+      "token_id": 17729,
+      "token": ")*(",
+      "delta_logit": 0.3055555522441864
+    },
+    {
+      "direction": "promoted",
+      "token_id": 59,
+      "token": "\\",
+      "delta_logit": 0.3020833432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 262,
+      "token": "   ",
+      "delta_logit": -0.2673611044883728
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1149,
+      "token": "let",
+      "delta_logit": -0.2638888955116272
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 539,
+      "token": "ord",
+      "delta_logit": -0.25
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 21775,
+      "token": "mn",
+      "delta_logit": -0.2395833283662796
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 145033,
+      "token": "ℓ",
+      "delta_logit": -0.2239583283662796
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 706,
+      "token": "ax",
+      "delta_logit": -0.21875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 256,
+      "token": "  ",
+      "delta_logit": -0.21875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1118,
+      "token": "arr",
+      "delta_logit": -0.2183159738779068
+    }
+  ],
+  "1": [
+    {
+      "direction": "promoted",
+      "token_id": 24157,
+      "token": "[/",
+      "delta_logit": 0.4573567807674408
+    },
+    {
+      "direction": "promoted",
+      "token_id": 10365,
+      "token": " bund",
+      "delta_logit": 0.3871527910232544
+    },
+    {
+      "direction": "promoted",
+      "token_id": 522,
+      "token": "</",
+      "delta_logit": 0.3445095419883728
+    },
+    {
+      "direction": "promoted",
+      "token_id": 59,
+      "token": "\\",
+      "delta_logit": 0.3402777910232544
+    },
+    {
+      "direction": "promoted",
+      "token_id": 66239,
+      "token": " grips",
+      "delta_logit": 0.3296983540058136
+    },
+    {
+      "direction": "promoted",
+      "token_id": 25974,
+      "token": "*\r\n",
+      "delta_logit": 0.3289930522441864
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5031,
+      "token": "\"\r\n",
+      "delta_logit": 0.3289930522441864
+    },
+    {
+      "direction": "promoted",
+      "token_id": 144083,
+      "token": "］",
+      "delta_logit": 0.3246527910232544
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 333,
+      "token": "if",
+      "delta_logit": -0.3125
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 966,
+      "token": "pos",
+      "delta_logit": -0.3068576455116272
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 531,
+      "token": "act",
+      "delta_logit": -0.3031684160232544
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 31548,
+      "token": "器",
+      "delta_logit": -0.3020833432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 266,
+      "token": "at",
+      "delta_logit": -0.2977430522441864
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 354,
+      "token": "ot",
+      "delta_logit": -0.2929891049861908
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 100481,
+      "token": "宏",
+      "delta_logit": -0.2899305522441864
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1153,
+      "token": " },\n",
+      "delta_logit": -0.2873263955116272
+    }
+  ],
+  "2": [
+    {
+      "direction": "promoted",
+      "token_id": 3422,
+      "token": "\\\\",
+      "delta_logit": 0.6840277910232544
+    },
+    {
+      "direction": "promoted",
+      "token_id": 22245,
+      "token": "\\\"\\",
+      "delta_logit": 0.6805555820465088
+    },
+    {
+      "direction": "promoted",
+      "token_id": 24157,
+      "token": "[/",
+      "delta_logit": 0.6355794072151184
+    },
+    {
+      "direction": "promoted",
+      "token_id": 24984,
+      "token": " \\\\",
+      "delta_logit": 0.59375
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7245,
+      "token": " \\\"",
+      "delta_logit": 0.5798611044883728
+    },
+    {
+      "direction": "promoted",
+      "token_id": 46127,
+      "token": "*\\",
+      "delta_logit": 0.5765516757965088
+    },
+    {
+      "direction": "promoted",
+      "token_id": 54280,
+      "token": "*[",
+      "delta_logit": 0.5685356855392456
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2105,
+      "token": "\\\"",
+      "delta_logit": 0.5625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 30841,
+      "token": " Dry",
+      "delta_logit": -0.3871527910232544
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 341,
+      "token": " {\n",
+      "delta_logit": -0.3754340410232544
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 333,
+      "token": "if",
+      "delta_logit": -0.3333333432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 5795,
+      "token": " goal",
+      "delta_logit": -0.3107638955116272
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 510,
+      "token": ":\n",
+      "delta_logit": -0.3098958432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 262,
+      "token": "   ",
+      "delta_logit": -0.3072916567325592
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 256,
+      "token": "  ",
+      "delta_logit": -0.3003472089767456
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8698,
+      "token": "iro",
+      "delta_logit": -0.2834201455116272
+    }
+  ],
+  "3": [
+    {
+      "direction": "promoted",
+      "token_id": 22245,
+      "token": "\\\"\\",
+      "delta_logit": 0.7291666865348816
+    },
+    {
+      "direction": "promoted",
+      "token_id": 99058,
+      "token": " ...\"\n\n",
+      "delta_logit": 0.7265625
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30438,
+      "token": "...\"\n",
+      "delta_logit": 0.7060105800628662
+    },
+    {
+      "direction": "promoted",
+      "token_id": 92346,
+      "token": "“\n\n",
+      "delta_logit": 0.7048611044883728
+    },
+    {
+      "direction": "promoted",
+      "token_id": 1837,
+      "token": "\"\n\n",
+      "delta_logit": 0.7039930820465088
+    },
+    {
+      "direction": "promoted",
+      "token_id": 47486,
+      "token": "...\"\n\n",
+      "delta_logit": 0.691680908203125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 0.6788275241851807
+    },
+    {
+      "direction": "promoted",
+      "token_id": 698,
+      "token": "\"\n",
+      "delta_logit": 0.6666666865348816
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 262,
+      "token": "   ",
+      "delta_logit": -0.4756944477558136
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 256,
+      "token": "  ",
+      "delta_logit": -0.4253472089767456
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 333,
+      "token": "if",
+      "delta_logit": -0.3333333432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 31548,
+      "token": "器",
+      "delta_logit": -0.3185763955116272
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 4142,
+      "token": "–",
+      "delta_logit": -0.3142361044883728
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 983,
+      "token": "to",
+      "delta_logit": -0.3107638955116272
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 269,
+      "token": "or",
+      "delta_logit": -0.2847222089767456
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 93797,
+      "token": " `-",
+      "delta_logit": -0.2810329794883728
+    }
+  ],
+  "4": [
+    {
+      "direction": "promoted",
+      "token_id": 12706,
+      "token": " […]\n\n",
+      "delta_logit": 1.1032986640930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 12236,
+      "token": " ...\n",
+      "delta_logit": 1.0807291269302368
+    },
+    {
+      "direction": "promoted",
+      "token_id": 94334,
+      "token": " ...\"\n",
+      "delta_logit": 1.078125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 89478,
+      "token": "…\n",
+      "delta_logit": 1.0696614980697632
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9338,
+      "token": "...\n",
+      "delta_logit": 1.0546875
+    },
+    {
+      "direction": "promoted",
+      "token_id": 98760,
+      "token": " ...\\",
+      "delta_logit": 1.0486111640930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 10205,
+      "token": " […",
+      "delta_logit": 1.0277777910232544
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4593,
+      "token": " …",
+      "delta_logit": 1.0246310234069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1249,
+      "token": "To",
+      "delta_logit": -0.4375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 30986,
+      "token": "₁",
+      "delta_logit": -0.4192708432674408
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 983,
+      "token": "to",
+      "delta_logit": -0.4149305522441864
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 2014,
+      "token": " To",
+      "delta_logit": -0.4131944477558136
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 93797,
+      "token": " `-",
+      "delta_logit": -0.4110514223575592
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 31548,
+      "token": "器",
+      "delta_logit": -0.3910590410232544
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1404,
+      "token": "eter",
+      "delta_logit": -0.351806640625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 78053,
+      "token": " Spells",
+      "delta_logit": -0.3467881977558136
+    }
+  ],
+  "5": [
+    {
+      "direction": "promoted",
+      "token_id": 30801,
+      "token": "...\\",
+      "delta_logit": 9.236979484558105
+    },
+    {
+      "direction": "promoted",
+      "token_id": 98760,
+      "token": " ...\\",
+      "delta_logit": 9.134331703186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4593,
+      "token": " …",
+      "delta_logit": 8.85232162475586
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9338,
+      "token": "...\n",
+      "delta_logit": 8.18771743774414
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2503,
+      "token": " ...",
+      "delta_logit": 8.146050453186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 12236,
+      "token": " ...\n",
+      "delta_logit": 8.093098640441895
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5468,
+      "token": " ...\n\n",
+      "delta_logit": 7.886176109313965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 12022,
+      "token": " …\n\n",
+      "delta_logit": 7.837239742279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1249,
+      "token": "To",
+      "delta_logit": -5.0625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 36573,
+      "token": " redund",
+      "delta_logit": -3.9921875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 71,
+      "token": "h",
+      "delta_logit": -3.8767361640930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 106410,
+      "token": "多久",
+      "delta_logit": -3.6570096015930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 2679,
+      "token": "If",
+      "delta_logit": -3.6388888359069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 82318,
+      "token": " qualifiers",
+      "delta_logit": -3.558729410171509
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 6269,
+      "token": "Enter",
+      "delta_logit": -3.555555582046509
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 45882,
+      "token": " Throughout",
+      "delta_logit": -3.5520832538604736
+    }
+  ],
+  "6": [
+    {
+      "direction": "promoted",
+      "token_id": 3044,
+      "token": " \\\n",
+      "delta_logit": 4.59776496887207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2303,
+      "token": "  \n",
+      "delta_logit": 4.115017414093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 61657,
+      "token": "...]\n\n",
+      "delta_logit": 4.088216304779053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5661,
+      "token": "\\\n",
+      "delta_logit": 4.08203125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 46269,
+      "token": "$name",
+      "delta_logit": 3.907769203186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 92056,
+      "token": "...(",
+      "delta_logit": 3.798882484436035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9338,
+      "token": "...\n",
+      "delta_logit": 3.770751953125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 144220,
+      "token": "＃",
+      "delta_logit": 3.768120765686035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 2341,
+      "token": " spe",
+      "delta_logit": -2.6072185039520264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 42745,
+      "token": " -.",
+      "delta_logit": -2.5808377265930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 151643,
+      "token": "<｜end▁of▁sentence｜>",
+      "delta_logit": -2.570420980453491
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 44777,
+      "token": " portrayed",
+      "delta_logit": -2.487603187561035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 39122,
+      "token": " Js",
+      "delta_logit": -2.4861111640930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 44355,
+      "token": " hypoth",
+      "delta_logit": -2.4361979961395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8294,
+      "token": "ela",
+      "delta_logit": -2.4270832538604736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 32633,
+      "token": " zz",
+      "delta_logit": -2.394097328186035
+    }
+  ],
+  "7": [
+    {
+      "direction": "promoted",
+      "token_id": 3044,
+      "token": " \\\n",
+      "delta_logit": 5.47960090637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 5.361979007720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 87008,
+      "token": "……\n\n",
+      "delta_logit": 5.24403190612793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21518,
+      "token": "*\n\n",
+      "delta_logit": 5.179931640625
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2146,
+      "token": "...\n\n",
+      "delta_logit": 5.062038898468018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 56177,
+      "token": "**\n\n",
+      "delta_logit": 5.038519859313965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 66426,
+      "token": "$\n\n",
+      "delta_logit": 5.01453971862793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 25046,
+      "token": "$\n",
+      "delta_logit": 4.948676109313965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 82376,
+      "token": " symbolism",
+      "delta_logit": -3.8074002265930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96872,
+      "token": " overlays",
+      "delta_logit": -3.160264730453491
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 102736,
+      "token": "日起",
+      "delta_logit": -3.1227755546569824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 86358,
+      "token": " collapses",
+      "delta_logit": -3.1044921875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 39122,
+      "token": " Js",
+      "delta_logit": -3.090928792953491
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 97046,
+      "token": "'em",
+      "delta_logit": -2.9861111640930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 63389,
+      "token": " Debbie",
+      "delta_logit": -2.9470486640930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 24426,
+      "token": "!!.",
+      "delta_logit": -2.926072835922241
+    }
+  ],
+  "8": [
+    {
+      "direction": "promoted",
+      "token_id": 19407,
+      "token": " judgment",
+      "delta_logit": 6.002170085906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 144220,
+      "token": "＃",
+      "delta_logit": 5.87890625
+    },
+    {
+      "direction": "promoted",
+      "token_id": 87008,
+      "token": "……\n\n",
+      "delta_logit": 5.745442867279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 5.685763835906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21518,
+      "token": "*\n\n",
+      "delta_logit": 5.610019207000732
+    },
+    {
+      "direction": "promoted",
+      "token_id": 10110,
+      "token": "umin",
+      "delta_logit": 5.607584476470947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 145026,
+      "token": "＄",
+      "delta_logit": 5.586371421813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 65590,
+      "token": " Xiao",
+      "delta_logit": 5.535454750061035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 7241,
+      "token": " unless",
+      "delta_logit": -4.752604007720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 106815,
+      "token": "此类",
+      "delta_logit": -4.736653804779053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9658,
+      "token": " assume",
+      "delta_logit": -4.719292640686035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 15356,
+      "token": " whenever",
+      "delta_logit": -4.642144203186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96872,
+      "token": " overlays",
+      "delta_logit": -4.42003059387207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 481,
+      "token": " -",
+      "delta_logit": -4.177951335906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 86358,
+      "token": " collapses",
+      "delta_logit": -4.159396648406982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 5193,
+      "token": " upon",
+      "delta_logit": -4.146477699279785
+    }
+  ],
+  "9": [
+    {
+      "direction": "promoted",
+      "token_id": 19407,
+      "token": " judgment",
+      "delta_logit": 5.988715171813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21216,
+      "token": "～",
+      "delta_logit": 5.865451335906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 5.65394401550293
+    },
+    {
+      "direction": "promoted",
+      "token_id": 78540,
+      "token": " blanks",
+      "delta_logit": 5.575737953186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 144220,
+      "token": "＃",
+      "delta_logit": 5.551215171813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 81008,
+      "token": " __________________________________",
+      "delta_logit": 5.479058265686035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4407,
+      "token": "aker",
+      "delta_logit": 5.37845516204834
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72025,
+      "token": "+')",
+      "delta_logit": 5.268880367279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 7241,
+      "token": " unless",
+      "delta_logit": -4.184027671813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1609,
+      "token": "olog",
+      "delta_logit": -4.023003578186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 116848,
+      "token": "特殊情况",
+      "delta_logit": -4.015625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96872,
+      "token": " overlays",
+      "delta_logit": -3.750868082046509
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 39122,
+      "token": " Js",
+      "delta_logit": -3.7350261211395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9658,
+      "token": " assume",
+      "delta_logit": -3.7168917655944824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 28047,
+      "token": " sar",
+      "delta_logit": -3.63930606842041
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 481,
+      "token": " -",
+      "delta_logit": -3.6072049140930176
+    }
+  ],
+  "10": [
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 7.012152671813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 78540,
+      "token": " blanks",
+      "delta_logit": 5.698567867279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 81008,
+      "token": " __________________________________",
+      "delta_logit": 5.60460090637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5901,
+      "token": "Strip",
+      "delta_logit": 5.537326335906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 19407,
+      "token": " judgment",
+      "delta_logit": 5.490017414093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72488,
+      "token": " braking",
+      "delta_logit": 5.250216960906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 60310,
+      "token": " Minds",
+      "delta_logit": 5.023763179779053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 52845,
+      "token": "arend",
+      "delta_logit": 4.838541507720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1112,
+      "token": "...",
+      "delta_logit": -6.640408039093018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 2503,
+      "token": " ...",
+      "delta_logit": -6.039496421813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1934,
+      "token": "....",
+      "delta_logit": -5.669487953186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9338,
+      "token": "...\n",
+      "delta_logit": -5.517659664154053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1463,
+      "token": " mod",
+      "delta_logit": -5.409939289093018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 481,
+      "token": " -",
+      "delta_logit": -5.370659828186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 12236,
+      "token": " ...\n",
+      "delta_logit": -5.313150882720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 12460,
+      "token": " distinct",
+      "delta_logit": -5.256618976593018
+    }
+  ],
+  "11": [
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 6.3046875
+    },
+    {
+      "direction": "promoted",
+      "token_id": 56177,
+      "token": "**\n\n",
+      "delta_logit": 5.993489742279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 5.84461784362793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 5.543185710906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 24984,
+      "token": " \\\\",
+      "delta_logit": 5.454861164093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 46269,
+      "token": "$name",
+      "delta_logit": 5.401909828186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 1837,
+      "token": "\"\n\n",
+      "delta_logit": 5.390950679779053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 32045,
+      "token": "    ",
+      "delta_logit": 5.317816734313965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 57390,
+      "token": "!?",
+      "delta_logit": -4.916015625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1609,
+      "token": "olog",
+      "delta_logit": -4.801107406616211
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 89936,
+      "token": " logarith",
+      "delta_logit": -4.569769859313965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23503,
+      "token": "}>{",
+      "delta_logit": -4.533228397369385
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 36635,
+      "token": " manipulate",
+      "delta_logit": -4.531900882720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 7241,
+      "token": " unless",
+      "delta_logit": -4.52430534362793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54910,
+      "token": " infinity",
+      "delta_logit": -4.46397590637207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 39122,
+      "token": " Js",
+      "delta_logit": -4.455295085906982
+    }
+  ],
+  "12": [
+    {
+      "direction": "promoted",
+      "token_id": 56177,
+      "token": "**\n\n",
+      "delta_logit": 6.68663215637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 6.273763179779053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 6.142144203186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 334,
+      "token": "**",
+      "delta_logit": 5.978841304779053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5130,
+      "token": "\")\n\n",
+      "delta_logit": 5.24131965637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 1837,
+      "token": "\"\n\n",
+      "delta_logit": 5.239583492279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 5.162109375
+    },
+    {
+      "direction": "promoted",
+      "token_id": 3070,
+      "token": " **",
+      "delta_logit": 4.998806476593018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -6.414279460906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23503,
+      "token": "}>{",
+      "delta_logit": -5.942925453186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 57390,
+      "token": "!?",
+      "delta_logit": -5.939670085906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 4607,
+      "token": "?.",
+      "delta_logit": -5.804470539093018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 68387,
+      "token": " alternatively",
+      "delta_logit": -5.546441078186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 32728,
+      "token": " supposedly",
+      "delta_logit": -5.305094242095947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 20923,
+      "token": " Brew",
+      "delta_logit": -5.254340171813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 12442,
+      "token": " wel",
+      "delta_logit": -5.24131965637207
+    }
+  ],
+  "13": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 6.75010871887207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 5.967013835906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 32045,
+      "token": "    ",
+      "delta_logit": 5.385036945343018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 19070,
+      "token": "    ",
+      "delta_logit": 5.136773109436035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 45393,
+      "token": "   ",
+      "delta_logit": 4.815104007720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 86210,
+      "token": "       ",
+      "delta_logit": 4.494791507720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 45449,
+      "token": "        ",
+      "delta_logit": 4.454644203186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 4.4052734375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 4607,
+      "token": "?.",
+      "delta_logit": -7.26649284362793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -6.925564289093018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 75777,
+      "token": "akis",
+      "delta_logit": -6.751898765563965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 57390,
+      "token": "!?",
+      "delta_logit": -6.706814289093018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 24426,
+      "token": "!!.",
+      "delta_logit": -6.579427242279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 93503,
+      "token": " intric",
+      "delta_logit": -6.493597984313965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 25984,
+      "token": "?!",
+      "delta_logit": -6.37939453125
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 30551,
+      "token": " Jar",
+      "delta_logit": -6.372395992279053
+    }
+  ],
+  "14": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 9.284722328186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 8.50303840637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 56177,
+      "token": "**\n\n",
+      "delta_logit": 8.409831047058105
+    },
+    {
+      "direction": "promoted",
+      "token_id": 1837,
+      "token": "\"\n\n",
+      "delta_logit": 7.50450325012207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21518,
+      "token": "*\n\n",
+      "delta_logit": 7.432291507720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 93,
+      "token": "~",
+      "delta_logit": 7.187066078186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 854,
+      "token": "”",
+      "delta_logit": 7.05946159362793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2879,
+      "token": ".”\n\n",
+      "delta_logit": 6.857720375061035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 71735,
+      "token": "Jar",
+      "delta_logit": -6.391805171966553
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 16700,
+      "token": " arrang",
+      "delta_logit": -6.133463382720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 87993,
+      "token": " PSU",
+      "delta_logit": -5.85276985168457
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 75777,
+      "token": "akis",
+      "delta_logit": -5.70985221862793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 53559,
+      "token": " GREEN",
+      "delta_logit": -5.496044158935547
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 83082,
+      "token": "-enh",
+      "delta_logit": -5.48936653137207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 59855,
+      "token": "esting",
+      "delta_logit": -5.479817867279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -5.36707878112793
+    }
+  ],
+  "15": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 7.730034828186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7511,
+      "token": "”\n\n",
+      "delta_logit": 5.111979007720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 75738,
+      "token": "\\_",
+      "delta_logit": 5.074137210845947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 854,
+      "token": "”",
+      "delta_logit": 5.050998210906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21518,
+      "token": "*\n\n",
+      "delta_logit": 4.983072757720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 4.872395992279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4910,
+      "token": " ground",
+      "delta_logit": 4.864583492279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2453,
+      "token": " care",
+      "delta_logit": 4.707465171813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14410,
+      "token": " ges",
+      "delta_logit": -6.27039909362793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -6.268880367279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23503,
+      "token": "}>{",
+      "delta_logit": -6.13953971862793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9942,
+      "token": "lets",
+      "delta_logit": -6.11610221862793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 93009,
+      "token": "-ren",
+      "delta_logit": -5.949435710906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1640,
+      "token": " ins",
+      "delta_logit": -5.884114742279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 53559,
+      "token": " GREEN",
+      "delta_logit": -5.80859375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14505,
+      "token": "legend",
+      "delta_logit": -5.748562335968018
+    }
+  ],
+  "16": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 7.919704914093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 5.155816078186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 75738,
+      "token": "\\_",
+      "delta_logit": 4.879340171813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 334,
+      "token": "**",
+      "delta_logit": 4.814236164093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21518,
+      "token": "*\n\n",
+      "delta_logit": 4.783854007720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 23933,
+      "token": " verified",
+      "delta_logit": 4.682074546813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 1019,
+      "token": "**\n",
+      "delta_logit": 4.60850715637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 93,
+      "token": "~",
+      "delta_logit": 4.597873210906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -5.9677734375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 75777,
+      "token": "akis",
+      "delta_logit": -5.947916507720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 80955,
+      "token": " kz",
+      "delta_logit": -5.43467903137207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 31566,
+      "token": " Kid",
+      "delta_logit": -5.427951335906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 78698,
+      "token": ";.",
+      "delta_logit": -5.326388835906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9942,
+      "token": "lets",
+      "delta_logit": -5.324652671813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 32633,
+      "token": " zz",
+      "delta_logit": -5.311957359313965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 17421,
+      "token": "posable",
+      "delta_logit": -5.169162273406982
+    }
+  ],
+  "17": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 6.090277671813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 72363,
+      "token": " ​​",
+      "delta_logit": 4.1512451171875
+    },
+    {
+      "direction": "promoted",
+      "token_id": 39814,
+      "token": "Sure",
+      "delta_logit": 3.891493082046509
+    },
+    {
+      "direction": "promoted",
+      "token_id": 93,
+      "token": "~",
+      "delta_logit": 3.507378578186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 378,
+      "token": "�",
+      "delta_logit": 3.495659828186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 40698,
+      "token": " Dame",
+      "delta_logit": 3.436631917953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9238,
+      "token": "  ",
+      "delta_logit": 3.4080402851104736
+    },
+    {
+      "direction": "promoted",
+      "token_id": 13416,
+      "token": "uma",
+      "delta_logit": 3.3852810859680176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -6.043402671813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14201,
+      "token": " legs",
+      "delta_logit": -5.026150226593018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 61502,
+      "token": " POT",
+      "delta_logit": -5.010281085968018
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8335,
+      "token": "izable",
+      "delta_logit": -4.98133659362793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 32633,
+      "token": " zz",
+      "delta_logit": -4.94520378112793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 87701,
+      "token": "otts",
+      "delta_logit": -4.891486167907715
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 27059,
+      "token": " salv",
+      "delta_logit": -4.888020992279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 22268,
+      "token": " anth",
+      "delta_logit": -4.840277671813965
+    }
+  ],
+  "18": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 5.408854007720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 378,
+      "token": "�",
+      "delta_logit": 3.800347328186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 54145,
+      "token": ",)\n",
+      "delta_logit": 3.7340495586395264
+    },
+    {
+      "direction": "promoted",
+      "token_id": 93,
+      "token": "~",
+      "delta_logit": 3.303819417953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 3.2047526836395264
+    },
+    {
+      "direction": "promoted",
+      "token_id": 22983,
+      "token": " _\n",
+      "delta_logit": 3.142957925796509
+    },
+    {
+      "direction": "promoted",
+      "token_id": 20399,
+      "token": ",_",
+      "delta_logit": 3.0807292461395264
+    },
+    {
+      "direction": "promoted",
+      "token_id": 47909,
+      "token": " owed",
+      "delta_logit": 3.048394203186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 54982,
+      "token": "}-${",
+      "delta_logit": -5.065972328186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 3527,
+      "token": " aff",
+      "delta_logit": -4.93956184387207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 5641,
+      "token": "ych",
+      "delta_logit": -4.422200679779053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 72236,
+      "token": "legs",
+      "delta_logit": -4.29600715637207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1716,
+      "token": "ott",
+      "delta_logit": -4.276909828186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 33802,
+      "token": "-half",
+      "delta_logit": -4.21961784362793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 22619,
+      "token": "ifiable",
+      "delta_logit": -4.19080924987793
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 87701,
+      "token": "otts",
+      "delta_logit": -4.181586265563965
+    }
+  ],
+  "19": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 5.048611164093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 54145,
+      "token": ",)\n",
+      "delta_logit": 4.47987174987793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 378,
+      "token": "�",
+      "delta_logit": 4.30381965637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 4465,
+      "token": "-control",
+      "delta_logit": 3.943250894546509
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2524,
+      "token": " control",
+      "delta_logit": 3.587293863296509
+    },
+    {
+      "direction": "promoted",
+      "token_id": 93,
+      "token": "~",
+      "delta_logit": 3.503472328186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 3.5
+    },
+    {
+      "direction": "promoted",
+      "token_id": 5817,
+      "token": "~~",
+      "delta_logit": 3.49350643157959
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 6657,
+      "token": "azing",
+      "delta_logit": -4.458333492279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 72236,
+      "token": "legs",
+      "delta_logit": -4.39366340637207
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8836,
+      "token": " pm",
+      "delta_logit": -4.082085609436035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23521,
+      "token": " NBC",
+      "delta_logit": -4.035373210906982
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 17065,
+      "token": " bs",
+      "delta_logit": -3.9986979961395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 39194,
+      "token": " kicking",
+      "delta_logit": -3.9544270038604736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14201,
+      "token": " legs",
+      "delta_logit": -3.9279513359069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 32633,
+      "token": " zz",
+      "delta_logit": -3.9168293476104736
+    }
+  ],
+  "20": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 4.255208492279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 54145,
+      "token": ",)\n",
+      "delta_logit": 3.8115234375
+    },
+    {
+      "direction": "promoted",
+      "token_id": 378,
+      "token": "�",
+      "delta_logit": 3.131944417953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 25021,
+      "token": " explaining",
+      "delta_logit": 3.0198566913604736
+    },
+    {
+      "direction": "promoted",
+      "token_id": 102213,
+      "token": "留下",
+      "delta_logit": 2.9953341484069824
+    },
+    {
+      "direction": "promoted",
+      "token_id": 7232,
+      "token": " earn",
+      "delta_logit": 2.988715171813965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 2.980034828186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 42643,
+      "token": " paragraphs",
+      "delta_logit": 2.928277015686035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 72236,
+      "token": "legs",
+      "delta_logit": -4.16716194152832
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 67008,
+      "token": " Tate",
+      "delta_logit": -3.8195528984069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 6657,
+      "token": "azing",
+      "delta_logit": -3.800347328186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 117041,
+      "token": "一个星期",
+      "delta_logit": -3.774183511734009
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14201,
+      "token": " legs",
+      "delta_logit": -3.7355685234069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 93568,
+      "token": "邮箱",
+      "delta_logit": -3.6744792461395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 22619,
+      "token": "ifiable",
+      "delta_logit": -3.5937228202819824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8335,
+      "token": "izable",
+      "delta_logit": -3.58172607421875
+    }
+  ],
+  "21": [
+    {
+      "direction": "promoted",
+      "token_id": 4102,
+      "token": " ",
+      "delta_logit": 4.013020992279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 378,
+      "token": "�",
+      "delta_logit": 3.8697917461395264
+    },
+    {
+      "direction": "promoted",
+      "token_id": 54145,
+      "token": ",)\n",
+      "delta_logit": 3.745551109313965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21018,
+      "token": " Hi",
+      "delta_logit": 3.569444417953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 3.533745765686035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30438,
+      "token": "...\"\n",
+      "delta_logit": 3.45654296875
+    },
+    {
+      "direction": "promoted",
+      "token_id": 102104,
+      "token": "回答",
+      "delta_logit": 3.4479167461395264
+    },
+    {
+      "direction": "promoted",
+      "token_id": 16032,
+      "token": "yo",
+      "delta_logit": 3.3288302421569824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 72236,
+      "token": "legs",
+      "delta_logit": -4.223958492279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 117041,
+      "token": "一个星期",
+      "delta_logit": -3.9983181953430176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 80847,
+      "token": " cages",
+      "delta_logit": -3.758897542953491
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 16729,
+      "token": "phones",
+      "delta_logit": -3.730034828186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8818,
+      "token": " despite",
+      "delta_logit": -3.725043296813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 49619,
+      "token": "_dimension",
+      "delta_logit": -3.679633140563965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 104315,
+      "token": "大数据",
+      "delta_logit": -3.6770832538604736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 9942,
+      "token": "lets",
+      "delta_logit": -3.664930582046509
+    }
+  ],
+  "22": [
+    {
+      "direction": "promoted",
+      "token_id": 30438,
+      "token": "...\"\n",
+      "delta_logit": 4.150173664093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 102104,
+      "token": "回答",
+      "delta_logit": 4.042534828186035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 21018,
+      "token": " Hi",
+      "delta_logit": 4.017361164093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 3.970458984375
+    },
+    {
+      "direction": "promoted",
+      "token_id": 698,
+      "token": "\"\n",
+      "delta_logit": 3.955132484436035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 33590,
+      "token": "”，",
+      "delta_logit": 3.8547091484069824
+    },
+    {
+      "direction": "promoted",
+      "token_id": 101181,
+      "token": "同学",
+      "delta_logit": 3.835069417953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 497,
+      "token": "\",",
+      "delta_logit": 3.7844510078430176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 16729,
+      "token": "phones",
+      "delta_logit": -4.0390625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96149,
+      "token": " inconsistency",
+      "delta_logit": -3.918836832046509
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 73110,
+      "token": " Ernst",
+      "delta_logit": -3.623046875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1587,
+      "token": "att",
+      "delta_logit": -3.620225667953491
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 480,
+      "token": "able",
+      "delta_logit": -3.596137046813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 58148,
+      "token": " Fog",
+      "delta_logit": -3.5475261211395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8818,
+      "token": " despite",
+      "delta_logit": -3.5436198711395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 69917,
+      "token": "omorphic",
+      "delta_logit": -3.534722328186035
+    }
+  ],
+  "23": [
+    {
+      "direction": "promoted",
+      "token_id": 102104,
+      "token": "回答",
+      "delta_logit": 4.40711784362793
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30438,
+      "token": "...\"\n",
+      "delta_logit": 4.103732585906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 30769,
+      "token": " understands",
+      "delta_logit": 4.081814289093018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 698,
+      "token": "\"\n",
+      "delta_logit": 4.074761390686035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 111423,
+      "token": "的回答",
+      "delta_logit": 4.029513835906982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 497,
+      "token": "\",",
+      "delta_logit": 4.027886390686035
+    },
+    {
+      "direction": "promoted",
+      "token_id": 52388,
+      "token": ",...\n",
+      "delta_logit": 4.018283367156982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 23137,
+      "token": "uo",
+      "delta_logit": 4.010416507720947
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96149,
+      "token": " inconsistency",
+      "delta_logit": -4.738606929779053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 18822,
+      "token": " repeatedly",
+      "delta_logit": -4.196614742279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 73110,
+      "token": " Ernst",
+      "delta_logit": -3.874566078186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 11650,
+      "token": "gray",
+      "delta_logit": -3.837212562561035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 102561,
+      "token": "拨",
+      "delta_logit": -3.70855712890625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 8630,
+      "token": " onto",
+      "delta_logit": -3.629774332046509
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 104315,
+      "token": "大数据",
+      "delta_logit": -3.6154513359069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14150,
+      "token": "timeout",
+      "delta_logit": -3.572319984436035
+    }
+  ],
+  "24": [
+    {
+      "direction": "promoted",
+      "token_id": 3942,
+      "token": " community",
+      "delta_logit": 4.8056640625
+    },
+    {
+      "direction": "promoted",
+      "token_id": 835,
+      "token": " end",
+      "delta_logit": 4.688150882720947
+    },
+    {
+      "direction": "promoted",
+      "token_id": 61681,
+      "token": " procedural",
+      "delta_logit": 4.387423992156982
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9339,
+      "token": " thanks",
+      "delta_logit": 4.3622589111328125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 12062,
+      "token": " Community",
+      "delta_logit": 4.186849117279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 408,
+      "token": "end",
+      "delta_logit": 4.08897590637207
+    },
+    {
+      "direction": "promoted",
+      "token_id": 100309,
+      "token": "路上",
+      "delta_logit": 4.071072101593018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 74484,
+      "token": "Lights",
+      "delta_logit": 4.065755367279053
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 96149,
+      "token": " inconsistency",
+      "delta_logit": -3.8845486640930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14150,
+      "token": "timeout",
+      "delta_logit": -3.791449546813965
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 13664,
+      "token": "isms",
+      "delta_logit": -3.68359375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 67151,
+      "token": "_drive",
+      "delta_logit": -3.647088050842285
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 22896,
+      "token": " Sant",
+      "delta_logit": -3.4519855976104736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1293,
+      "token": " long",
+      "delta_logit": -3.4005939960479736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 16729,
+      "token": "phones",
+      "delta_logit": -3.3796658515930176
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 3483,
+      "token": " dev",
+      "delta_logit": -3.370659828186035
+    }
+  ],
+  "25": [
+    {
+      "direction": "promoted",
+      "token_id": 835,
+      "token": " end",
+      "delta_logit": 4.285237789154053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 32640,
+      "token": " outlined",
+      "delta_logit": 4.262234210968018
+    },
+    {
+      "direction": "promoted",
+      "token_id": 3972,
+      "token": " End",
+      "delta_logit": 4.206380367279053
+    },
+    {
+      "direction": "promoted",
+      "token_id": 24525,
+      "token": " Scholar",
+      "delta_logit": 4.013373374938965
+    },
+    {
+      "direction": "promoted",
+      "token_id": 3942,
+      "token": " community",
+      "delta_logit": 3.94921875
+    },
+    {
+      "direction": "promoted",
+      "token_id": 29937,
+      "token": "uelle",
+      "delta_logit": 3.8572049140930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 408,
+      "token": "end",
+      "delta_logit": 3.8298611640930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 2241,
+      "token": " fore",
+      "delta_logit": 3.8046875
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23921,
+      "token": " consecutive",
+      "delta_logit": -4.087456703186035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14150,
+      "token": "timeout",
+      "delta_logit": -4.073343753814697
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 60916,
+      "token": " spor",
+      "delta_logit": -3.939727783203125
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 4766,
+      "token": " inside",
+      "delta_logit": -3.912004232406616
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 13664,
+      "token": "isms",
+      "delta_logit": -3.781304359436035
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 51125,
+      "token": "资",
+      "delta_logit": -3.709153890609741
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 35824,
+      "token": "τ",
+      "delta_logit": -3.6923828125
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 27174,
+      "token": "bang",
+      "delta_logit": -3.671875
+    }
+  ],
+  "26": [
+    {
+      "direction": "promoted",
+      "token_id": 1196,
+      "token": " user",
+      "delta_logit": 3.891493082046509
+    },
+    {
+      "direction": "promoted",
+      "token_id": 408,
+      "token": "end",
+      "delta_logit": 3.8125
+    },
+    {
+      "direction": "promoted",
+      "token_id": 20002,
+      "token": "用户",
+      "delta_logit": 3.756944417953491
+    },
+    {
+      "direction": "promoted",
+      "token_id": 32640,
+      "token": " outlined",
+      "delta_logit": 3.6970486640930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 24525,
+      "token": " Scholar",
+      "delta_logit": 3.4103732109069824
+    },
+    {
+      "direction": "promoted",
+      "token_id": 22441,
+      "token": "　",
+      "delta_logit": 3.3496906757354736
+    },
+    {
+      "direction": "promoted",
+      "token_id": 8545,
+      "token": "——",
+      "delta_logit": 3.3064236640930176
+    },
+    {
+      "direction": "promoted",
+      "token_id": 9339,
+      "token": " thanks",
+      "delta_logit": 3.2522785663604736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 2017,
+      "token": "uration",
+      "delta_logit": -3.9693400859832764
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 3483,
+      "token": " dev",
+      "delta_logit": -3.9375
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 3527,
+      "token": " aff",
+      "delta_logit": -3.8420138359069824
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 90456,
+      "token": "idon",
+      "delta_logit": -3.645195960998535
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 1508,
+      "token": " ob",
+      "delta_logit": -3.6180012226104736
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 23921,
+      "token": " consecutive",
+      "delta_logit": -3.57965087890625
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 35824,
+      "token": "τ",
+      "delta_logit": -3.5143229961395264
+    },
+    {
+      "direction": "suppressed",
+      "token_id": 14556,
+      "token": "odd",
+      "delta_logit": -3.5138888359069824
+    }
+  ]
+}
